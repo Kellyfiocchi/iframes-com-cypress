@@ -19,9 +19,9 @@ Veja os exemplos deste projeto em: cypress/integration/iframes.spec.js
 
 # Instalação
 
-```sh
 npm install -D cypress
 npm install -D cypress-iframe
+
 ```
 
 # Materiais complementares
@@ -41,3 +41,4 @@ npm install -D cypress-iframe
 _Importante_ : o suporte nativo a iframes está no ROADMAP priorizado do Cypress.
 
 Veja em: https://docs.cypress.io/guides/references/roadmap#Upcoming-features
+```
