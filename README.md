@@ -20,6 +20,7 @@ Veja os exemplos deste projeto em: cypress/integration/iframes.spec.js
 # Instalação
 
 npm install -D cypress
+
 npm install -D cypress-iframe
 
 ```
