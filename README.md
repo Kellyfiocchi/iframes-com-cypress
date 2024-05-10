@@ -47,6 +47,4 @@ _Importante_ : o suporte nativo a iframes está no ROADMAP priorizado do Cypress
 
 Veja em: https://docs.cypress.io/guides/references/roadmap#Upcoming-features
 
-```
-
-```
+Se você gostou deste conteúdo, deixe seu ⭐️
